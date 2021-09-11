@@ -1,4 +1,4 @@
-import galleryItems from "../data/app.js";
+// import galleryItems from "../app.js";
 
 const modalWrapper = document.querySelector(".js-lightbox");
 
